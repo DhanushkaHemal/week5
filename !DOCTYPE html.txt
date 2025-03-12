@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Playful Wonders Toy Shop</title>
+    <link rel="stylesheet" href="css/style.css" />
+    
+</head>
+<body>
+    <section class="hero">
+        <h1>Playful Wonders</h1>
+        <p>Discover a world of imagination and joy with our incredible collection of toys that spark creativity, learning, and endless fun!</p>
+    </section>
+
+    <section class="toy-grid">
+        <div class="toy-item">
+            <img src="/api/placeholder/300/250" alt="Toy 1">
+            <div class="toy-info">
+                <h3>Robotic Buddy</h3>
+                <p>Interactive learning robot</p>
+            </div>
+        </div>
+        <div class="toy-item">
+            <img src="/api/placeholder/300/250" alt="Toy 2">
+            <div class="toy-info">
+                <h3>Magical Puzzle</h3>
+                <p>Brain-teasing 3D puzzle</p>
+            </div>
+        </div>
+        <div class="toy-item">
+            <img src="/api/placeholder/300/250" alt="Toy 3">
+            <div class="toy-info">
+                <h3>Adventure Blocks</h3>
+                <p>Creative building set</p>
+            </div>
+        </div>
+        <div class="toy-item">
+            <img src="/api/placeholder/300/250" alt="Toy 4">
+            <div class="toy-info">
+                <h3>Musical Maestro</h3>
+                <p>Electronic music toy</p>
+            </div>
+        </div>
+        <div class="toy-item">
+            <img src="/api/placeholder/300/250" alt="Toy 5">
+            <div class="toy-info">
+                <h3>Science Explorer</h3>
+                <p>Educational experiment kit</p>
+            </div>
+        </div>
+        <div class="toy-item">
+            <img src="/api/placeholder/300/250" alt="Toy 6">
+            <div class="toy-info">
+                <h3>Artisan Craft</h3>
+                <p>Creative painting set</p>
+            </div>
+        </div>
+        <div class="toy-item">
+            <img src="/api/placeholder/300/250" alt="Toy 7">
+            <div class="toy-info">
+                <h3>Racing Legends</h3>
+                <p>Remote control car</p>
+            </div>
+        </div>
+        <div class="toy-item">
+            <img src="/api/placeholder/300/250" alt="Toy 8">
+            <div class="toy-info">
+                <h3>Cuddly Companion</h3>
+                <p>Soft interactive plush</p>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
